@@ -11,13 +11,13 @@ public class Main {
 
         Flor flor2 = new Flor ();
 
-        flor2.setActitud("buena");
+        flor2.setActitud("timida");
 
-        flor2.setApariencia("Timida");
+        flor2.setApariencia("hermosa");
 
         flor2.setEstado("Alegre");
 
-        flor2.setCantidadOrugas(3); 
+        flor2.setCantidadOrugas(5); 
 
 
         
